@@ -12,3 +12,8 @@ Example
 ```
 wp core update --version=6.5 --force
 ```
+
+## To Clear wp cli Cache
+```
+wp cli cache clear
+```
